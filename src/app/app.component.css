@@ -1,0 +1,49 @@
+#rowDiv{
+    margin-left: 500px;
+    margin-top: 200px;
+}
+body{
+    background-image: url("image.jpg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+input.form-control{
+
+    width: 280px;
+    height: 50px;
+
+}
+
+button.btn.btn-primary{
+    margin-left: 10px;
+    background-color: ghostwhite;
+    color: black;
+    
+}
+p{
+    margin-left: 600px;
+    font-size: 65%;
+    color: black;
+}
+.text-center{
+    color: ghostwhite;
+    text-shadow: black 1px 1px 10px;
+    font-size: 50px;
+    font-weight: 600;
+}
+.clima{
+    margin-left: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    color: ghostwhite;
+}
+.copyright{
+    color: black;
+}
+.input.form-control.ng-valid.ng-dirty.ng-touched{
+    font-family: 'Times New Roman', Times, serif;
+}
+
